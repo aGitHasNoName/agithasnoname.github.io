@@ -1,23 +1,23 @@
-## Portfolio
+## Tutorials and Projects
 
 ---
 
-### Category Name 1 
+### Tutorials 
 
-[Project 1 Title](/sample_page)
+[Python Fundamentals for Researchers](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Next Steps in Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[BioPython](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
